@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @ALexeySLavyanin
-- 👀 I’m interested in development of the coin PRIZM 
-- 🌱 I’m currently not learning. 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💎 I’m interested in promotion of the coin PRIZM 
+
 
 <!---
 ALexeySLavyanin/ALexeySLavyanin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
